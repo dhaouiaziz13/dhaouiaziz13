@@ -26,7 +26,7 @@ Hi, I'm Dhaoui aziz, a passionate self-taught Full Stack Web Developer 🚀 from
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Typescript; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@dhaouiaziz1](https://twitter.com/Dhaouiaziz1);
+- 📫 How to reach me: [@dhaouiaziz](https://www.facebook.com/dhaoui.aziz.7/);
 
 
 **Languages and Tools:**  
