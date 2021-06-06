@@ -57,9 +57,7 @@ If you like what I do, maybe consider following me 🥺👉👈
 
 
 🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-         
-🌸  Completed 0 tasks today           
+<!-- TODO-IST:START -->         
 ✅  Completed 507 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
