@@ -6,12 +6,7 @@
 <a href="https://www.linkedin.com/in/dhaoui-med-aziz-532009203/">
   <img align="left" alt="Azizs's  LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/bachenau">
-  <img align="left" alt="Azizs's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-<a href="https://www.reddit.com/user/dhaouiaziz13">
-  <img align="left" alt="Azizs's  Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=dhaouiaziz13)
 
