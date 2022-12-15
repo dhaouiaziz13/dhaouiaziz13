@@ -37,15 +37,6 @@ Hi, I'm Dhaoui aziz, a passionate self-taught Full Stack Engineer 🚀 from tuni
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-js      4 hrs           ████████████████▒░░░░░░░░   65.62 % 
-XML        1 hr 9 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Markdown   54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-python       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-```
-<!--END_SECTION:waka-->
 
 If you like what I do, maybe consider following me 🥺👉👈
 
