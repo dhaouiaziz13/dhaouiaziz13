@@ -42,4 +42,8 @@ If you like what I do, maybe consider following me 🥺👉👈
 ✅  Completed 507 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
+---
 
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/bachenau)
+
+---
