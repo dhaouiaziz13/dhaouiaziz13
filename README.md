@@ -43,8 +43,8 @@ If you like what I do, maybe consider following me 🥺👉👈
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 ---
-<p align="center">
+<img align="center">
   [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/bachenau?si=fe0ce88ed13c4694)
-</p>
+</img>
 
 ---
