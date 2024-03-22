@@ -7,7 +7,7 @@
 
 <br />
 
-Hi, I'm Dhaoui aziz, a passionate self-taught Full Stack Engineer 🚀 from tunisia.
+Hi, I'm Dhaoui aziz, a passionate self-taught software Engineer 🚀 from tunisia.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
